@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "596746493933",
+    "firebase_url": "https://parlor-5f5f1-default-rtdb.firebaseio.com",
+    "project_id": "parlor-5f5f1",
+    "storage_bucket": "parlor-5f5f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596746493933:android:98f1fc06c62bc8b8ae91e4",
+        "android_client_info": {
+          "package_name": "com.beauty.parler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596746493933-4b5pia7nhhg7rspqnj5vegui21o99142.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beauty.parler",
+            "certificate_hash": "6a419b22f7bd119ce05e66c2bc496c7fbc4e06b5"
+          }
+        },
+        {
+          "client_id": "596746493933-292aq8t3it044il0ruenoasti5dk1l22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFChIp-lBwfH-Rbahie3vywtmn8NTpKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596746493933-292aq8t3it044il0ruenoasti5dk1l22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596746493933:android:e35676ad69580c03ae91e4",
+        "android_client_info": {
+          "package_name": "com.meat.meatdashadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596746493933-292aq8t3it044il0ruenoasti5dk1l22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFChIp-lBwfH-Rbahie3vywtmn8NTpKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596746493933-292aq8t3it044il0ruenoasti5dk1l22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
